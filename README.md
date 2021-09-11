@@ -1,5 +1,8 @@
 # wingpanel-indicator-dark-style
 
+![Screenshot](data/screenshot.png?raw=true)
+![Screenshot-dark](data/screenshot-dark.png?raw=true)
+
 
 
 ```shell
