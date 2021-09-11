@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>com.github.childishgiant.wingpanel-indicator-dark-style</id>
+  <extends>io.elementary.wingpanel</extends>
+  <name>Dark Style Indicator</name>
+  <summary>Easily toggle dark mode</summary>
+  <releases>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/childishgiant/wingpanel-indicator-dark-style/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <developer_name>Allie Law</developer_name>
+  <url type="homepage">https://github.com/childishgiant/wingpanel-indicator-dark-style/</url>
+  <url type="bugtracker">https://github.com/childishgiant/wingpanel-indicator-dark-style/issues</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+</component>
